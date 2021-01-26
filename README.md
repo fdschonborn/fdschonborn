@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD026 MD033 -->
 <div align="center">
-    <h1>Hola!</h1>
+
+# Hola!
+
 </div>
